@@ -52,7 +52,7 @@ ALLOWED_ORIGINS: list[str] = [
     "http://localhost:5173",   # Vite dev server
     "http://127.0.0.1:3000",
     "http://127.0.0.1:5173",
-    # "https://trustlens.ai", ← add your production domain here
+    "https://trust-lens-ai-3csq-git-main-dhiren-lullas-projects.vercel.app/"
 ]
 
 app.add_middleware(
