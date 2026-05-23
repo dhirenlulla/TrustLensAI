@@ -1,4 +1,4 @@
-# 🚀 TrustLens AI
+<img width="1918" height="488" alt="image" src="https://github.com/user-attachments/assets/a50d147f-dda1-4d96-8963-1852e0647bd5" /># 🚀 TrustLens AI
 
 > AI-Powered Compensation Validation & Fraud Detection Platform
 
@@ -135,29 +135,35 @@ Analytics Dashboard
 # 🌐 Live Demo
 
 ## Frontend
-👉 PASTE_YOUR_VERCEL_LINK_HERE
+👉 https://trust-lens-ai-3csq.vercel.app/
 
 ## Backend API Docs
-👉 PASTE_YOUR_BACKEND_LINK/docs
-
-## Demo Video
-👉 PASTE_YOUR_VIDEO_LINK_HERE
+👉 https://trustlensai-vipg.onrender.com/docs
 
 ---
 
 # 📸 Screenshots
 
 ## Dashboard
-(Add Screenshot)
+<img width="1919" height="576" alt="dashboard-trustlens" src="https://github.com/user-attachments/assets/a42660e8-c108-4738-a307-9ea9c8e1d040" />
+<img width="1906" height="826" alt="image" src="https://github.com/user-attachments/assets/6bfed194-19da-45a5-af05-1a96b7ab580c" />
+
 
 ## Fraud Detection
-(Add Screenshot)
+<img width="1917" height="905" alt="image" src="https://github.com/user-attachments/assets/0f4c15a2-d000-4ee6-850b-afe170ccb712" />
+<img width="1907" height="875" alt="image" src="https://github.com/user-attachments/assets/b118855e-5cea-4f2f-91bc-cf18737abd43" />
+
 
 ## Analytics Panel
-(Add Screenshot)
+<img width="1517" height="252" alt="image" src="https://github.com/user-attachments/assets/3ff3c64e-856d-48c9-ac2f-2cd87d56a74e" />
+
+<img width="1899" height="679" alt="image" src="https://github.com/user-attachments/assets/fabd3308-a85f-44a8-af92-5ac91a38de21" />
+
 
 ## FastAPI Docs
-(Add Screenshot)
+<img width="1901" height="872" alt="image" src="https://github.com/user-attachments/assets/be7a9b83-5da1-47bf-a013-c005beadfed5" />
+<img width="1897" height="475" alt="image" src="https://github.com/user-attachments/assets/92c03696-a340-47f0-9393-a823625b486a" />
+
 
 ---
 
