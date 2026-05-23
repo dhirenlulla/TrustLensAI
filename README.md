@@ -1,4 +1,4 @@
-<img width="1918" height="488" alt="image" src="https://github.com/user-attachments/assets/a50d147f-dda1-4d96-8963-1852e0647bd5" /># 🚀 TrustLens AI
+🚀 TrustLens AI
 
 > AI-Powered Compensation Validation & Fraud Detection Platform
 
