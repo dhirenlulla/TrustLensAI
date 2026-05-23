@@ -47,20 +47,14 @@ Base.metadata.create_all(bind=engine)
 # ---------------------------------------------------------------------------
 
 # TODO: Move this list to an environment variable / config file before prod.
-ALLOWED_ORIGINS: list[str] = [
-    "http://localhost:3000",   # React / Next.js dev server
-    "http://localhost:5173",   # Vite dev server
-    "http://127.0.0.1:3000",
-    "http://127.0.0.1:5173",
-    "https://trust-lens-ai-3csq-git-main-dhiren-lullas-projects.vercel.app/"
-]
+ALLOWED_ORIGINS: list[str] = ["*"]
 
 app.add_middleware(
     CORSMiddleware,
     allow_origins=ALLOWED_ORIGINS,
-    allow_credentials=True,         # Allow cookies / Authorization headers
-    allow_methods=["*"],            # GET, POST, PUT, DELETE, PATCH, OPTIONS …
-    allow_headers=["*"],            # Accept any request header
+    allow_credentials=False,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 # ---------------------------------------------------------------------------
