@@ -4,7 +4,7 @@
 
 TrustLens AI is a full-stack machine learning platform designed to detect suspicious, fraudulent, or unrealistic salary submissions before they corrupt crowdsourced compensation analytics.
 
-Built for Hackathon 2025 using FastAPI, Next.js, Scikit-learn, Isolation Forest, SQLAlchemy, and SQLite.
+Built for Hackathon 2026 using FastAPI, Next.js, Scikit-learn, Isolation Forest, SQLAlchemy, and SQLite.
 
 ---
 
